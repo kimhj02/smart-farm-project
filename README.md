@@ -1,2 +1,3 @@
 # smart-home-project
-#### 개요
+# 1. 문제 상황
+## 1) 
