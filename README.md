@@ -29,7 +29,14 @@
 # 3. 관련 기술
 
 ## 1) 온습도 센서
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA0MTVfMTY1%2FMDAxNjgxNTQzNzk5ODc0._6CDoY9P-OMB7uyUZU2HdG-zVHShC23jDSVHSWqT1xQg.ISKEngzegD6rJI0M6_G4W_HTTM2Ef4NuzUe8dLq8GRkg.JPEG.pmhsky8268%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25281%2529.jpg&type=a340">
+이번 프로젝트에서 사용할 온습도 센서는 DHT11이다. <br>
+이 센서의 연결포트는 vcc(+) 와 gnd(-) 그리고 input으로 이루어져있다. 센서의 작동 원리에 대해서는 자세하게 기술하지 않겠다. <br>
+센서에서 들어온 값을 아두이노를 통하여 내가 원하는 화씨(H) 또는 도씨(C)로 바꾸어 사용이 가능하다.<br>
+이번 프로젝트에서는 이 온습도 센서를 사용하여 온도와 습도를 확인할 것이다.<br>
 
+- 장점
+  
 ## 2) 조도 센서
 
 ## 3) 펌프 모듈
