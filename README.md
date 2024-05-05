@@ -42,6 +42,8 @@
 - 단점
   1. 새로운 온도를 받는데 2초의 딜레이가 존재한다
 ## 2) 조도 센서
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MDdfMyAg%2FMDAxNzEyNDkyODUxMDUz.sDHQVqHD377uvxSmzx10xKH7M_xdGcWQnjGTXzjSmGwg.ibjOXA3EhEoW2FsG27NHKfSVt01AKI0wxzdnfu_mWKQg.JPEG%2F%25C1%25B6%25B5%25B5%25BC%25BE%25BC%25AD.jpg&type=a340">
+이번 프로젝트에서 사용한 조도 센서는 cds 조도 센서이다. <br>
 
 ## 3) 펌프 모듈
 
